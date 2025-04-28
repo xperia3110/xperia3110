@@ -23,10 +23,6 @@
 	•	AI model for automating IELTS band score calculation.
 	•	Uses OpenAI Whisper and PyTorch for speech analysis and improvement tracking.
 
-🔗 EYANTRA Warehouse Drone
-  • Developed a drone system for automating warehouse operations.
-	•	Focused on optimizing navigation, object detection, and payload delivery.
-	•	Implemented efficient algorithms for obstacle avoidance and path planning.
 
 🌱 Currently Learning
 
