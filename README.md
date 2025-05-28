@@ -2,7 +2,7 @@
 
 🚀 About Me
 
-🎓 I’m a 3rd-year BTech student passionate about technology, innovation, and problem-solving.
+🎓 I’m a 4th-year BTech student passionate about technology, innovation, and problem-solving.
 💡 I love working on projects that combine IoT, machine learning, and AI to create impactful solutions.
 📌 Have done various projects using Ubuntu, Windows and Mac operating systems.
 
