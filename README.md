@@ -2,13 +2,13 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&c## 🤝 Let's Connect & Collaborate
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&c##) 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/collins3110)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:collinsdoesthings@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/collins3110)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xperia3110)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](#)
 
 </div>
@@ -55,15 +55,6 @@
   
 ### ⭐ If you like my work, give it a star! ⭐
 
-![Snake animation](https://github.com/collins3110/collins3110/blob/output/github-contribution-grid-snake.svg)
-
-**Thanks for visiting my profile! Happy Coding! 🚀**
-
-</div>rue&vCenter=true&width=435&lines=BTech+Student+%7C+AI+Enthusiast;IoT+Developer+%7C+ML+Engineer;Problem+Solver+%7C+Tech+Innovator)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=collins3110&color=blue&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/collins3110?label=Follow&style=social)](https://github.com/collins3110)
-
 </div>
 
 ## 🚀 About Me
@@ -71,13 +62,7 @@
 🎓 **4th-year BTech Student** passionate about technology, innovation, and problem-solving  
 💡 I love working on projects that combine **IoT**, **Machine Learning**, and **AI** to create impactful solutions  
 📌 Cross-platform developer with experience on **Ubuntu**, **Windows**, and **macOS**  
-🌍 Based in India | Expected Graduation: **2025**o, I’m Collins Shibi
-
-🚀 About Me
-
-🎓 I’m a 4th-year BTech student passionate about technology, innovation, and problem-solving.
-💡 I love working on projects that combine IoT, machine learning, and AI to create impactful solutions.
-📌 Have done various projects using Ubuntu, Windows and Mac operating systems.
+🌍 Based in India | Expected Graduation: **2026**
 
 ## 🛠️ Technical Skills
 
@@ -139,7 +124,7 @@
 ---
 
 ### 🎓 IELTS AI Scoring Model
-[![Status](https://img.shields.io/badge/Status-In%20Development-yellow)](https://github.com/collins3110)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/collins3110)
 [![AI](https://img.shields.io/badge/AI-Powered-red)](https://github.com/collins3110)
 
 > **Automated Language Assessment System**
@@ -157,26 +142,11 @@
 <summary>Click to see additional projects</summary>
 
 - **🏠 Smart Home Automation** - ESP32-based home control system
-- **📈 Stock Price Predictor** - LSTM model for financial forecasting
 - **🔍 Object Detection System** - Real-time computer vision application
 - **🌐 Personal Portfolio Website** - Responsive web development project
 
 </details>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=collins3110&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=collins3110&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=collins3110&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
 
 ## 🌱 Currently Learning & Growing
 
@@ -204,12 +174,3 @@
 </td>
 </tr>
 </table>
-
-📫 Let’s Connect
-	•	LinkedIn: www.linkedin.com/in/collins3110
-	•	Email: collinsdoesthings@gmail.com
-
-🔖 Fun Fact
-
-"It's not a bug, it's an undocumented feature." 
-
