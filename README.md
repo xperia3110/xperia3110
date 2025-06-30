@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&c##) 🤝 Let's Connect & Collaborate
+  🤝 Let's Connect & Collaborate
 
 <div align="center">
 
