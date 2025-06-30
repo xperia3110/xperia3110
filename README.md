@@ -27,11 +27,11 @@
 
 | Goal | Progress | Target |
 |------|----------|---------|
-| 🎓 Complete BTech with Distinction | 80% | June 2025 |
-| 🚀 Secure AI/ML Internship | 60% | Q2 2025 |
-| 📚 Publish Research Paper | 40% | Q3 2025 |
-| 🏆 Win Tech Competition | 30% | Q4 2025 |
-| 💼 Build Startup MVP | 20% | End 2025 |
+| 🎓 Complete BTech with Distinction | 80% | June 2026 |
+| 🚀 Secure AI/ML Internship | 60% | Q4 2025 |
+| 📚 Publish Research Paper | 40% | Q1 2026 |
+| 🏆 Win Tech Competition | 30% | Q2 2026 |
+| 💼 Build Startup MVP | 20% | End 2026 |
 
 </div>
 
