@@ -90,7 +90,7 @@
 ## 🔖 Random Dev Facts
 * 💬 **Dev Quote:** "It's not a bug... it's just an undocumented feature living its best life."
 * 🐛 **Debugging Style:** I use `print("HERE 1")`, `print("HERE 2")` and I’m not even sorry about it. 
-* 🏔️ **Adventure:** If you don't hear from me, I'm probably on a 4-day train journey to **Manali**.
+* 🏔️ **Adventure:** If you don't hear from me, I'm probably on a 4-day train journey to **Manali** yay.
 * 🔨 **Hardware Geek:** I’m currently building a miniature Bethlehem town. Yes, it’s probably more complex than my backend code.
 
 ---
