@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Collins Shibi Kurian 
+# 👋 Hello, I'm Collins Shibi Kurian 
 
 <div align="center">
 
